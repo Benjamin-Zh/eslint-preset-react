@@ -1,5 +1,5 @@
 {
-  "name": "@guys/eslint-preset-react",
+  "name": "@guys/eslint-config-react",
   "version": "0.1.0",
   "description": "",
   "main": "index.js",
