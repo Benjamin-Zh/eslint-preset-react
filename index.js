@@ -1,5 +1,5 @@
-module.exports = () => ({
-  extends: ['airbnb-base'],
+module.exports = {
+  extends: ['airbnb'],
   parser: 'babel-eslint',
   parserOptions: {
     allowImportExportEverywhere: true,
@@ -26,4 +26,4 @@ module.exports = () => ({
     ],
 
   },
-});
+};
